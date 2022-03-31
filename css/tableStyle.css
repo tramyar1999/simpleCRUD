@@ -1,0 +1,28 @@
+<style>
+#students {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: solid;
+  width: 100%;
+}
+
+#students td, #students th {
+  border: 2px solid #000;
+  padding: 3px;
+}
+
+#students tr{
+  background-color: #DADBBD;
+}
+
+#students tr:hover {background-color: #F5F5F5; color: black;}
+
+#students th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}
+
+
+</style>
