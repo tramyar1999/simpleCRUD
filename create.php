@@ -9,8 +9,8 @@ include("action.php");
 <head>
 	<title>Simple CRUD</title>
 </head>
-<link rel="stylesheet" type="text/css" href="css/sideStyle.css">
-<link rel="stylesheet" type="text/css" href="css/blockStyle.css">
+<link rel="stylesheet" type="text/css" href="sideStyle.css">
+<link rel="stylesheet" type="text/css" href="blockStyle.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 <body>

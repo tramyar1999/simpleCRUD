@@ -7,9 +7,9 @@ include("dbConnect.php");
 <head>
     <title>Simple CRUD</title>
 </head>
-<link rel="stylesheet" type="text/css" href="css/sideStyle.css">
-<link rel="stylesheet" type="text/css" href="css/blockStyle.css">
-<link rel="stylesheet" type="text/css" href="css/tableStyle.css">
+<link rel="stylesheet" type="text/css" href="sideStyle.css">
+<link rel="stylesheet" type="text/css" href="blockStyle.css">
+<link rel="stylesheet" type="text/css" href="tableStyle.css">
 <body>
     <div class="sidenav">
       <a href="#.php">SIMPLE CRUD</a>

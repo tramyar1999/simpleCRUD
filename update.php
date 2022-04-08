@@ -28,8 +28,8 @@ while($student = mysqli_fetch_array($result))
 <head>
 	<title>Update Student</title>
 </head>
-<link rel="stylesheet" type="text/css" href="css/sideStyle.css">
-<link rel="stylesheet" type="text/css" href="css/blockStyle.css">
+<link rel="stylesheet" type="text/css" href="sideStyle.css">
+<link rel="stylesheet" type="text/css" href="blockStyle.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 
 
